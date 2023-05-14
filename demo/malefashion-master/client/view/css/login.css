@@ -1,0 +1,20 @@
+.sign_in{
+  display: flex;
+  justify-content: center;
+  align-items:center;
+  padding: 30px 0px;
+
+
+}
+.sign_in > form{
+  width: 400px;
+}
+.sign_in  form  label{
+font-size: 18px;
+}
+.sign_in  form button{
+  font-weight: 550;
+}
+.sign_in > form span.errors{
+  color: red;
+}
